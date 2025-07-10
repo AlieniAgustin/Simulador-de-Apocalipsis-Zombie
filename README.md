@@ -45,10 +45,12 @@ Este proyecto fue creado para practicar:
 
 ## 📸 Ejemplo de salida
 Turno 0:
+```
 [[0 2 1 0]
 [2 3 2 0]
 [0 1 2 2]
 [0 0 0 0]]
+```
 
 Turno 1:
 ```
